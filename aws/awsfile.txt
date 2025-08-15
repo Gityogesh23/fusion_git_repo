@@ -1,2 +1,0 @@
-update the awsfile.txt file in fusion_git_repo .
-awsfile in aws directory
